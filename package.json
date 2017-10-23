@@ -1,0 +1,22 @@
+{
+  "name": "mydemo",
+  "version": "1.0.0",
+  "description": "My First WebRTC Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunisaszc/myFirstDemo.git"
+  },
+  "author": "Sunisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunisaszc/myFirstDemo/issues"
+  },
+  "homepage": "https://github.com/sunisaszc/myFirstDemo#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
